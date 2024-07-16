@@ -1,0 +1,30 @@
+Survive      Blood.TypeScore Pain.LevelVisit.countBMI
+No                    3     90moderate           2    29.6
+Yes                   3     80strong             3    28.2
+Yes                   3     45None             16     19.6
+No                    3     85None             23     13.7
+No           NA             87moderate         14     17.8
+Yes          NA             93strong           12      40
+Yes                   4     97moderate NA             77.4
+Yes                   2     65moderate         13        2
+Yes                   2     45None               2     22
+No                    2     48moderate           0     21
+No                    3     34light              0    20.7
+No                    4     11light              0NA
+Yes                   3     67moderate           7NA
+Yes                   3     88None             28     24.3
+NA                    1     83None             31NA
+No           NA             99None             14     27.8
+No                    4     93strong             4     26
+Yes                   3     52moderate NA             26.2
+Yes                   1     49None               2     29
+NA                    1      7moderate           5     25
+NA                    2     37strong             2    24.5
+NA                    2      5None               0     33
+NA                    3     77None               0     55
+NA           NA             73moderate         23      14
+NA                    1     75strong           27      37
+NA                    3     79strong             8     18
+NA                    4     70light              8     20
+NA           NA             44None               9     22
+
